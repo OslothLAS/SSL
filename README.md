@@ -1,3 +1,7 @@
-# SSL
+Curso: K2002
 
-Compilador: MinGW 
+Profesor: Eduardo Zúñiga
+
+Alumno: Osmar Daniel Silvero Ruiz
+
+Legajo: 204.073-6
